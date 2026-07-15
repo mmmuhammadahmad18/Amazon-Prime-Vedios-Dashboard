@@ -11,7 +11,7 @@ An interactive **Power BI** dashboard that explores Amazon Prime Video's title c
 
 ## Dashboard Preview
 
-![Amazon Prime Dashboard](images/dashboard.png)
+![Amazon Prime Dashboard](images/dashboard.jpeg)
 
 > _Add your exported screenshot as `images/dashboard.png` (create an `images/` folder in the repo and drop it in), then delete this line._
 
